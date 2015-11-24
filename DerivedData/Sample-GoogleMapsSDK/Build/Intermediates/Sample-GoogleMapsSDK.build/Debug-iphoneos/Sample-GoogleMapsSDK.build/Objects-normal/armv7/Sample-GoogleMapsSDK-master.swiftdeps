@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "afa68c3d6cfed745bad547f8ed12d50b"
+build_time: [501636287, 510001000]
+inputs:
+  "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Sample-GoogleMapsSDK/CameraViewController.swift": [500701012, 0]
+  "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Sample-GoogleMapsSDK/AppDelegate.swift": [500601585, 0]
+  "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Sample-GoogleMapsSDK/GoogleMapViewController.swift": [500700296, 0]

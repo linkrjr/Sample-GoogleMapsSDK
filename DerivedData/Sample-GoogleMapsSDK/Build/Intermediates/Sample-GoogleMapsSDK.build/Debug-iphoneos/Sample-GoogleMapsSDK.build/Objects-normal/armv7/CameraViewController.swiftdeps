@@ -1,0 +1,382 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CameraViewController"
+provides-nominal:
+- "C20Sample_GoogleMapsSDK20CameraViewController"
+provides-member:
+- ["C20Sample_GoogleMapsSDK20CameraViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+depends-top-level:
+- !private "NSLayoutRelation"
+- "UICollectionView"
+- !private "NSLayoutAttribute"
+- !private "BooleanLiteralType"
+- !private "NSLayoutConstraint"
+- "UIViewController"
+- "UIButton"
+- "CameraViewController"
+depends-member:
+- !private ["PSs9AnyObject", "NSLayoutAttribute"]
+- !private ["PSs9AnyObject", "NSLayoutConstraint"]
+- !private ["PSs9AnyObject", "NSLayoutRelation"]
+- !private ["PSs9AnyObject", "UICollectionView"]
+- !private ["PSs9AnyObject", "addConstraint"]
+- !private ["PSs9AnyObject", "addSubview"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "photoButton"]
+- ["PSs9AnyObject", "photoCollectionView"]
+- ["PSs9AnyObject", "setupConstraints"]
+- !private ["PSs9AnyObject", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSs9AnyObject", "view"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["PSs11CVarArgType", "NSLayoutAttribute"]
+- !private ["PSs11CVarArgType", "NSLayoutConstraint"]
+- !private ["PSs11CVarArgType", "NSLayoutRelation"]
+- !private ["PSs11CVarArgType", "UICollectionView"]
+- !private ["PSs11CVarArgType", "addConstraint"]
+- !private ["PSs11CVarArgType", "addSubview"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "photoButton"]
+- ["PSs11CVarArgType", "photoCollectionView"]
+- ["PSs11CVarArgType", "setupConstraints"]
+- !private ["PSs11CVarArgType", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSs11CVarArgType", "view"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- !private ["C20Sample_GoogleMapsSDK20CameraViewController", "NSLayoutAttribute"]
+- !private ["C20Sample_GoogleMapsSDK20CameraViewController", "NSLayoutConstraint"]
+- !private ["C20Sample_GoogleMapsSDK20CameraViewController", "NSLayoutRelation"]
+- ["C20Sample_GoogleMapsSDK20CameraViewController", "UIButton"]
+- ["C20Sample_GoogleMapsSDK20CameraViewController", "UICollectionView"]
+- ["C20Sample_GoogleMapsSDK20CameraViewController", "deinit"]
+- ["C20Sample_GoogleMapsSDK20CameraViewController", "init"]
+- !private ["C20Sample_GoogleMapsSDK20CameraViewController", "photoButton"]
+- !private ["C20Sample_GoogleMapsSDK20CameraViewController", "photoCollectionView"]
+- !private ["C20Sample_GoogleMapsSDK20CameraViewController", "setupConstraints"]
+- !private ["C20Sample_GoogleMapsSDK20CameraViewController", "view"]
+- ["C20Sample_GoogleMapsSDK20CameraViewController", "viewDidLoad"]
+- !private ["PSs23CustomStringConvertible", "NSLayoutAttribute"]
+- !private ["PSs23CustomStringConvertible", "NSLayoutConstraint"]
+- !private ["PSs23CustomStringConvertible", "NSLayoutRelation"]
+- !private ["PSs23CustomStringConvertible", "UICollectionView"]
+- !private ["PSs23CustomStringConvertible", "addConstraint"]
+- !private ["PSs23CustomStringConvertible", "addSubview"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "photoButton"]
+- ["PSs23CustomStringConvertible", "photoCollectionView"]
+- ["PSs23CustomStringConvertible", "setupConstraints"]
+- !private ["PSs23CustomStringConvertible", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSs23CustomStringConvertible", "view"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "Equal"]
+- !private ["PSs9Equatable", "Height"]
+- !private ["PSs9Equatable", "NSLayoutAttribute"]
+- !private ["PSs9Equatable", "NSLayoutConstraint"]
+- !private ["PSs9Equatable", "NSLayoutRelation"]
+- !private ["PSs9Equatable", "UICollectionView"]
+- !private ["PSs9Equatable", "Width"]
+- !private ["PSs9Equatable", "addConstraint"]
+- !private ["PSs9Equatable", "addSubview"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "photoButton"]
+- ["PSs9Equatable", "photoCollectionView"]
+- ["PSs9Equatable", "setupConstraints"]
+- !private ["PSs9Equatable", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSs9Equatable", "view"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "Equal"]
+- !private ["PSs8Hashable", "Height"]
+- !private ["PSs8Hashable", "NSLayoutAttribute"]
+- !private ["PSs8Hashable", "NSLayoutConstraint"]
+- !private ["PSs8Hashable", "NSLayoutRelation"]
+- !private ["PSs8Hashable", "UICollectionView"]
+- !private ["PSs8Hashable", "Width"]
+- !private ["PSs8Hashable", "addConstraint"]
+- !private ["PSs8Hashable", "addSubview"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "photoButton"]
+- ["PSs8Hashable", "photoCollectionView"]
+- ["PSs8Hashable", "setupConstraints"]
+- !private ["PSs8Hashable", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSs8Hashable", "view"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- !private ["SQ", "deinit"]
+- !private ["PSo8NSCoding", "NSLayoutAttribute"]
+- !private ["PSo8NSCoding", "NSLayoutConstraint"]
+- !private ["PSo8NSCoding", "NSLayoutRelation"]
+- !private ["PSo8NSCoding", "UICollectionView"]
+- !private ["PSo8NSCoding", "addConstraint"]
+- !private ["PSo8NSCoding", "addSubview"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "photoButton"]
+- ["PSo8NSCoding", "photoCollectionView"]
+- ["PSo8NSCoding", "setupConstraints"]
+- !private ["PSo8NSCoding", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo8NSCoding", "view"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo26NSExtensionRequestHandling", "NSLayoutAttribute"]
+- !private ["PSo26NSExtensionRequestHandling", "NSLayoutConstraint"]
+- !private ["PSo26NSExtensionRequestHandling", "NSLayoutRelation"]
+- !private ["PSo26NSExtensionRequestHandling", "UICollectionView"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "photoButton"]
+- ["PSo26NSExtensionRequestHandling", "photoCollectionView"]
+- ["PSo26NSExtensionRequestHandling", "setupConstraints"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["OSC17NSLayoutAttribute", "Height"]
+- !private ["OSC17NSLayoutAttribute", "Width"]
+- !private ["CSo18NSLayoutConstraint", "init"]
+- !private ["OSC16NSLayoutRelation", "Equal"]
+- !private ["CSo8NSObject", "NSLayoutAttribute"]
+- !private ["CSo8NSObject", "NSLayoutConstraint"]
+- !private ["CSo8NSObject", "NSLayoutRelation"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UICollectionView"]
+- !private ["CSo8NSObject", "addConstraint"]
+- !private ["CSo8NSObject", "addSubview"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "photoButton"]
+- ["CSo8NSObject", "photoCollectionView"]
+- ["CSo8NSObject", "setupConstraints"]
+- !private ["CSo8NSObject", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "NSLayoutAttribute"]
+- !private ["PSo16NSObjectProtocol", "NSLayoutConstraint"]
+- !private ["PSo16NSObjectProtocol", "NSLayoutRelation"]
+- !private ["PSo16NSObjectProtocol", "UICollectionView"]
+- !private ["PSo16NSObjectProtocol", "addConstraint"]
+- !private ["PSo16NSObjectProtocol", "addSubview"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "photoButton"]
+- ["PSo16NSObjectProtocol", "photoCollectionView"]
+- ["PSo16NSObjectProtocol", "setupConstraints"]
+- !private ["PSo16NSObjectProtocol", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSs16RawRepresentable", "Equal"]
+- !private ["PSs16RawRepresentable", "Height"]
+- !private ["PSs16RawRepresentable", "Width"]
+- !private ["PSo29UIAccessibilityIdentification", "addConstraint"]
+- !private ["PSo29UIAccessibilityIdentification", "addSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo12UIAppearance", "addConstraint"]
+- !private ["PSo12UIAppearance", "addSubview"]
+- !private ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo21UIAppearanceContainer", "NSLayoutAttribute"]
+- !private ["PSo21UIAppearanceContainer", "NSLayoutConstraint"]
+- !private ["PSo21UIAppearanceContainer", "NSLayoutRelation"]
+- !private ["PSo21UIAppearanceContainer", "UICollectionView"]
+- !private ["PSo21UIAppearanceContainer", "addConstraint"]
+- !private ["PSo21UIAppearanceContainer", "addSubview"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "photoButton"]
+- ["PSo21UIAppearanceContainer", "photoCollectionView"]
+- ["PSo21UIAppearanceContainer", "setupConstraints"]
+- !private ["PSo21UIAppearanceContainer", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo16UICollectionView", "init"]
+- !private ["CSo16UICollectionView", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo18UIContentContainer", "NSLayoutAttribute"]
+- !private ["PSo18UIContentContainer", "NSLayoutConstraint"]
+- !private ["PSo18UIContentContainer", "NSLayoutRelation"]
+- !private ["PSo18UIContentContainer", "UICollectionView"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "photoButton"]
+- ["PSo18UIContentContainer", "photoCollectionView"]
+- ["PSo18UIContentContainer", "setupConstraints"]
+- !private ["PSo18UIContentContainer", "view"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "addConstraint"]
+- !private ["PSo17UICoordinateSpace", "addSubview"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo13UIDynamicItem", "addConstraint"]
+- !private ["PSo13UIDynamicItem", "addSubview"]
+- !private ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo18UIFocusEnvironment", "NSLayoutAttribute"]
+- !private ["PSo18UIFocusEnvironment", "NSLayoutConstraint"]
+- !private ["PSo18UIFocusEnvironment", "NSLayoutRelation"]
+- !private ["PSo18UIFocusEnvironment", "UICollectionView"]
+- !private ["PSo18UIFocusEnvironment", "addConstraint"]
+- !private ["PSo18UIFocusEnvironment", "addSubview"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "photoButton"]
+- ["PSo18UIFocusEnvironment", "photoCollectionView"]
+- ["PSo18UIFocusEnvironment", "setupConstraints"]
+- !private ["PSo18UIFocusEnvironment", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIResponder", "NSLayoutAttribute"]
+- !private ["CSo11UIResponder", "NSLayoutConstraint"]
+- !private ["CSo11UIResponder", "NSLayoutRelation"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UICollectionView"]
+- !private ["CSo11UIResponder", "addConstraint"]
+- !private ["CSo11UIResponder", "addSubview"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "photoButton"]
+- ["CSo11UIResponder", "photoCollectionView"]
+- ["CSo11UIResponder", "setupConstraints"]
+- !private ["CSo11UIResponder", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["CSo11UIResponder", "view"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["CSo12UIScrollView", "init"]
+- !private ["CSo12UIScrollView", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo16UIStateRestoring", "NSLayoutAttribute"]
+- !private ["PSo16UIStateRestoring", "NSLayoutConstraint"]
+- !private ["PSo16UIStateRestoring", "NSLayoutRelation"]
+- !private ["PSo16UIStateRestoring", "UICollectionView"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "photoButton"]
+- ["PSo16UIStateRestoring", "photoCollectionView"]
+- ["PSo16UIStateRestoring", "setupConstraints"]
+- !private ["PSo16UIStateRestoring", "view"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "NSLayoutAttribute"]
+- !private ["PSo18UITraitEnvironment", "NSLayoutConstraint"]
+- !private ["PSo18UITraitEnvironment", "NSLayoutRelation"]
+- !private ["PSo18UITraitEnvironment", "UICollectionView"]
+- !private ["PSo18UITraitEnvironment", "addConstraint"]
+- !private ["PSo18UITraitEnvironment", "addSubview"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "photoButton"]
+- ["PSo18UITraitEnvironment", "photoCollectionView"]
+- ["PSo18UITraitEnvironment", "setupConstraints"]
+- !private ["PSo18UITraitEnvironment", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "addConstraint"]
+- !private ["CSo6UIView", "addSubview"]
+- !private ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["CSo16UIViewController", "NSLayoutAttribute"]
+- !private ["CSo16UIViewController", "NSLayoutConstraint"]
+- !private ["CSo16UIViewController", "NSLayoutRelation"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UICollectionView"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "photoButton"]
+- ["CSo16UIViewController", "photoCollectionView"]
+- ["CSo16UIViewController", "setupConstraints"]
+- !private ["CSo16UIViewController", "view"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["PSs12_Reflectable", "addConstraint"]
+- !private ["PSs12_Reflectable", "addSubview"]
+- !private ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "translatesAutoresizingMaskIntoConstraints"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "V12CoreGraphics7CGFloat"
+- "PSs11CVarArgType"
+- "C20Sample_GoogleMapsSDK20CameraViewController"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- !private "SQ"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- !private "OSC17NSLayoutAttribute"
+- !private "CSo18NSLayoutConstraint"
+- !private "OSC16NSLayoutRelation"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSs16RawRepresentable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo16UICollectionView"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- !private "CSo12UIScrollView"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Google/Headers/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSURLTileLayer.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSTileLayer.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSSyncTileLayer.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSServices.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPolyline.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPolygon.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlaceTypes.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSUserAddedPlace.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlacesMacros.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlacesClient.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlacePickerConfig.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlacePicker.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlaceLikelihoodList.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlaceLikelihood.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPlace.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaView.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaService.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaLink.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaLayer.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaCameraUpdate.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanoramaCamera.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPanorama.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSOrientation.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMutablePath.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMarkerLayer.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMarker.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMapView+Animation.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSIndoorLevel.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSIndoorDisplay.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSIndoorBuilding.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSGroundOverlay.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSPath.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSGeometryUtils.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSGeocoder.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSProjection.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCoordinateBounds.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSOverlay.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCircle.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCameraUpdate.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCameraPosition.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAutocompletePrediction.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAutocompleteMatchFragment.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAutocompleteFilter.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSUISettings.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSCALayer.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMapLayer.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSMapView.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/Headers/Public/GoogleMaps/GoogleMaps/GMSAddress.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/GoogleMaps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Pods/GoogleMaps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+interface-hash: "79337c1df40c3034508136c599064c39"

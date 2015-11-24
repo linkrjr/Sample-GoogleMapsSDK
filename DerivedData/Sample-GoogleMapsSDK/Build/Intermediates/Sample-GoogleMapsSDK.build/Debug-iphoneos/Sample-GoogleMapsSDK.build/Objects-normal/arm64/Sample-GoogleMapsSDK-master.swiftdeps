@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "9398ec9ce1533114a1cb47d0e9083d11"
+build_time: [501642313, 228351000]
+inputs:
+  "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Sample-GoogleMapsSDK/AppDelegate.swift": [500601585, 0]
+  "/Users/rongomes/Documents/projects/iphone/samples/Sample-GoogleMapsSDK/Sample-GoogleMapsSDK/GoogleMapViewController.swift": [500700296, 0]
